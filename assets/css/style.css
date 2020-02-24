@@ -1,0 +1,49 @@
+b{
+	font-family: 'Chakra Petch', sans-serif;
+}
+
+@media only screen and (max-width: 768px){
+  #logo{
+      display: none;
+  }
+  #mid-content{
+  	margin-top: 20%;
+  }
+}
+.btnTran  {
+     background:  transparent;
+     height:  50px;
+     line-height:  40px;
+     border:  2px solid white;
+     border-radius: 5px;
+     display:  inline;
+     float:  none;
+     text-align:  center;
+     width:  120px;
+     padding:  0px!important;
+     font-size:  14px;
+     color:  #fff;
+ }
+
+.btnTran:hover  {
+     color:  #fff;
+     background:  rgba(255, 255, 255, 0.2);
+ }
+ #roomcode{
+ 	background:  rgba(255, 255, 255, 0.5);
+  text-align: center;
+  font-family: 'Chakra Petch', sans-serif;
+ }
+ #notidication{
+ 	background:  rgba(255, 255, 255, 0.5);
+     line-height:  40px;
+     border:  2px solid white;
+     border-radius: 5px;
+     display:  inline-block;
+     float:  none;
+     text-align:  center;
+     width:  120px;
+     padding:  0px!important;
+     font-size:  14px;
+     color:  #fff;
+ }
